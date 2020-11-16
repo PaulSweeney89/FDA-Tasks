@@ -10,14 +10,20 @@ Please refer to [assessment.pdf](link) included within this repository for a ful
 
 Program Overview:
 
-Using juypter notebook write a simple python function which takes in a list as a input and returns a dictonary of the items in the list as keys and counts the number of times the each item appears as values. 
+Using jupyter notebook write a simple python function which takes in a list as a input and returns a dictonary of the items in the list as keys and counts the number of times the each item appears as values. 
 
 ## Task 2 - DiceRolls
 *2nd November 2020*
 
 Program Overview:
 
-Using juypter notebook write a python function that simulates rolling dice. The function will take an input for the number of dice rolled & the number of times the dice are rolled in the simulation, the function will count and record the sum of the rolled dice for each roll and provide a dictionary output of the results.
+Using jupyter notebook write a python function that simulates rolling dice. The function will take an input for the number of dice rolled & the number of times the dice are rolled in the simulation, the function will count and record the sum of the rolled dice for each roll and provide a dictionary output of the results.
+
+## Task 3 - CoinFlip
+*16th November 2020*
+
+Using jupyter notebook write some python code which simulates flipping a coin with a 50/50 chance of heads or tails a 100 times, the code should count & record the number of heads landed for each coin flip. The code should then repeat this process 1000 times, using an appropriate
+plot the results of the coin flips should be depicted. It should be shown that the distribution of recorded heads landed for the coin fills will follow a bell-shaped curve. 
 
 ## Jupyter Notebook
 
