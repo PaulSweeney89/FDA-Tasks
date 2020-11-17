@@ -3,7 +3,7 @@
 
 Four number tasks to be completed in the the Fundamentals of Data Analysis Module as part of the Higher Dipolma of Data Analytics Degree at GMIT.
 
-Please refer to [assessment.pdf](link) included within this repository for a full description of the Fundamentals of Data Analysis tasks & objectives.
+Please refer to [assessment.pdf](https://github.com/PaulSweeney89/FDA-Tasks/blob/main/assessment.pdf) included within this repository for a full description of the Fundamentals of Data Analysis tasks & objectives.
 
 ## Task 1 - COUNT Programme
 *5th October 2020*
@@ -35,4 +35,10 @@ The notebook is assiocated with the Ipython kernal and therfore all code has bee
 
 List of Python Packages & Libraries used:
 
+- Python Random Module
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
+- Math 
 
