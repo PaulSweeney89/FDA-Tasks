@@ -30,6 +30,7 @@ plot the results of the coin flips should be depicted. It should be shown that t
 List of files & folders contained within the Github Repository:
 
 - Images folder - contains image files used within the Jupyter Notebook.
+- .gitignore file -  specified to untrack .ipynb_checkpoints files.
 - README.md - This README markdown file.
 - Tasks Jupyter.ipynb - Jupyter Notebook file containing all the descriptive & programming objectives of the assessment tasks.
 - assessment.pdf - full description of the Fundamentals of Data Analysis tasks & objectives.
