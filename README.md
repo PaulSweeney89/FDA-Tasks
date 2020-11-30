@@ -62,9 +62,9 @@ Google Colab is available to anyone with a Google account, it allows for quick c
 
 List of Python Packages & Libraries used:
 
-- Python Random Module
-- NumPy
-- Pandas
-- Seaborn
-- Matplotlib
-- Math 
+- Python Random Module, [docs.python.org](https://docs.python.org/3/library/random.html)
+- NumPy, [numpy.org](https://numpy.org/)
+- Pandas, [pandas.pydata.org](https://pandas.pydata.org/)
+- Seaborn, [seaborn.pydata.org](https://seaborn.pydata.org/)
+- Matplotlib, [matplotlib.org](https://matplotlib.org/)
+- Math, [docs.python.org](https://docs.python.org/3/library/math.html) 
