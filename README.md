@@ -17,13 +17,22 @@ Using jupyter notebook write a simple python function which takes in a list as a
 
 Program Overview:
 
-Using jupyter notebook write a python function that simulates rolling dice. The function will take an input for the number of dice rolled & the number of times the dice are rolled in the simulation, the function will count and record the sum of the rolled dice for each roll and provide a dictionary output of the results.
+Using a jupyter notebook write a python function that simulates rolling dice. The function will take an input for the number of dice rolled & the number of times the dice are rolled in the simulation, the function will count and record the sum of the rolled dice for each roll and provide a dictionary output of the results.
 
 ## Task 3 - CoinFlip
 *16th November 2020*
 
-Using jupyter notebook write some python code which simulates flipping a coin with a 50/50 chance of heads or tails a 100 times, the code should count & record the number of heads landed for each coin flip. The code should then repeat this process 1000 times, using an appropriate
+Program Overview:
+
+Using a jupyter notebook write some python code which simulates flipping a coin with a 50/50 chance of heads or tails a 100 times, the code should count & record the number of heads landed for each coin flip. The code should then repeat this process 1000 times, using an appropriate
 plot the results of the coin flips should be depicted. It should be shown that the distribution of recorded heads landed for the coin fills will follow a bell-shaped curve. 
+
+## Task 4 - Simpon's Paradox
+*30th November 2020*
+
+Program Overview:
+
+Using a jupyter notebook & the NumPy package, create four data sets each with an **x** array and a corresponding **y** array. Provide a description along with analysis of the data created to demonstrate Simpson’s paradox.   
 
 ## Repository Files & Folders
 
